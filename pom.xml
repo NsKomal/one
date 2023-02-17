@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://13.233.112.142:8081/repository/mustafa-releases/</url>
+		    <url>http://54.91.172.42:8081/#browse/browse:kothi-releases/</url>
 		</repository>
   	</distributionManagement>
 	
